@@ -110,13 +110,14 @@ ShikshaPulse AI aims to answer:
 │ Status • Outcome   │
 └────────────────────┘
 </div>
-🎯 Problem
+
+### 🎯 Problem
 
 Education systems generate large amounts of information across different levels, indicators, and sources.
 
 However, having data does not automatically mean having actionable intelligence.
 
-The core challenges
+**The core challenges**
 Challenge	What it means
 🗂️ Fragmented Data	Information may exist across multiple datasets, systems, and administrative levels.
 🔍 Insight Gap	Officials may need to spend significant effort identifying meaningful patterns and priority areas.
@@ -283,7 +284,7 @@ OUTCOME
 
 This reduces the risk of treating an LLM-generated statement as an unexplained administrative decision.
 
-📋 Action Tracking
+### 📋 Action Tracking
 
 ShikshaPulse AI does not stop at recommendations.
 
@@ -345,7 +346,7 @@ Indicator	Example
 
 These values are generated from the prototype dataset and are intended for demonstration.
 
-🧠 How the AI Works
+### 🧠 How the AI Works
 
 A major design decision in ShikshaPulse AI is to separate deterministic analytics from generative reasoning.
 
@@ -368,6 +369,8 @@ Contextual reasoning
 Recommendation generation
 Action-plan drafting
 Architecture principle
+
+
           STRUCTURED DATA
                  │
                  ▼
@@ -396,7 +399,9 @@ Architecture principle
        │ AI Explanation &  │
        │ Recommendation    │
        └───────────────────┘
-Why this architecture?
+
+
+**Why this architecture?**
 
 Because the LLM should not be responsible for calculating official-looking statistics.
 
@@ -494,7 +499,7 @@ Layer	Technology
 🔌 API	REST
 🛠️ Development	VS Code
 🌱 Version Control	Git + GitHub
-</div>
+
 📁 Project Structure
 shikshapulse-ai/
 │
@@ -848,8 +853,6 @@ ShikshaPulse AI
 
 Education Intelligence • AI • Data • Action
 
-</div>
-
 The project concept was informed by publicly available education-data resources and the broader ecosystem of foundational learning and education data initiatives.
 
 Potential reference sources include:
@@ -892,18 +895,13 @@ If you find ShikshaPulse AI interesting:
 💡 Suggest improvements
 🤝 Contribute
 
-<div align="center">
 🎓 ShikshaPulse AI
 From Education Data → To Intelligence → To Action
-<br>
 
 Built for a future where data doesn't just inform decisions — it helps make action more traceable.
 
-<br>
-
 ⭐ Star the repository if you found the project interesting! ⭐
 
-</div>
 📄 License
 
 This project is licensed under the MIT License.
