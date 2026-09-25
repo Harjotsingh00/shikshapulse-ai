@@ -81,7 +81,9 @@ ShikshaPulse AI aims to answer:
 │ Owner • Deadline   │
 │ Status • Outcome   │
 └────────────────────┘
+
 </div>
+---
 
 ### 🎯 Problem
 
@@ -91,20 +93,20 @@ However, having data does not automatically mean having actionable intelligence.
 
 **The core challenges**
 Challenge	What it means
-🗂️ Fragmented Data	Information may exist across multiple datasets, systems, and administrative levels.
-🔍 Insight Gap	Officials may need to spend significant effort identifying meaningful patterns and priority areas.
-🧠 Decision Gap	A metric alone does not explain what intervention could be considered.
-👥 Accountability Gap	Actions can become difficult to track when ownership and deadlines are not clearly recorded.
-🔄 Feedback Gap	Without outcome tracking, it becomes difficult to understand whether an intervention helped.
+>🗂️ Fragmented Data	Information may exist across multiple datasets, systems, and administrative levels.
+>🔍 Insight Gap	Officials may need to spend significant effort identifying meaningful patterns and priority areas.
+>🧠 Decision Gap	A metric alone does not explain what intervention could be considered.
+>👥 Accountability Gap	Actions can become difficult to track when ownership and deadlines are not clearly recorded.
+>🔄 Feedback Gap	Without outcome tracking, it becomes difficult to understand whether an intervention helped.
 
 The missing layer
 
 Traditional data systems often focus on:
 
-DATA → DASHBOARD
+>DATA → DASHBOARD
 
 **ShikshaPulse AI** focuses on:
-
+```text
 DATA
   ↓
 INSIGHT
@@ -122,50 +124,50 @@ OUTCOME
 **ShikshaPulse AI** introduces an Education Action Intelligence Layer between raw education data and administrative action.
 
 Three core layers
-1️⃣ UNDERSTAND
+>1️⃣ UNDERSTAND
 
 Convert structured education data into:
 
-📊 Key performance indicators
-📈 Trends and comparisons
-🏫 School-level signals
-🗺️ Block-level summaries
-⚠️ Priority areas
+>📊 Key performance indicators
+>📈 Trends and comparisons
+>🏫 School-level signals
+>🗺️ Block-level summaries
+>⚠️ Priority areas
 
-2️⃣ DECIDE
+>2️⃣ DECIDE
 
 Use analytical signals and AI-assisted reasoning to help answer:
 
-Which schools require attention?
-Which indicators are concerning?
-What evidence supports the finding?
-What factors could be contributing?
-What interventions could be considered?
+>Which schools require attention?
+>Which indicators are concerning?
+>What evidence supports the finding?
+>What factors could be contributing?
+>What interventions could be considered?
 
-3️⃣ ACT
+>3️⃣ ACT
 
 Turn recommendations into trackable actions:
 
-👤 Owner
-📅 Deadline
-🎯 Priority
-📌 Status
-📝 Notes
-📈 Outcome
-✨ Key Features
-📊 Education Command Center
+>👤 Owner
+>📅 Deadline
+>🎯 Priority
+>📌 Status
+>📝 Notes
+>📈 Outcome
+>✨ Key Features
+>📊 Education Command Center
 
 A centralized dashboard providing an overview of education indicators.
 
 Includes:
 
-Numeracy
-Literacy
-Attendance
-Dropout
-Priority schools
-Block-level comparison
-Action status
+>Numeracy
+>Literacy
+>Attendance
+>Dropout
+>Priority schools
+>Block-level comparison
+>Action status
 
 ### 🏫 Priority School Identification
 
@@ -173,12 +175,12 @@ The platform identifies schools requiring closer attention using multiple indica
 
 Example signals include:
 
-Learning outcomes
-Attendance
-Dropout
-Teacher training
-Infrastructure
-Enrollment
+>Learning outcomes
+>Attendance
+>Dropout
+>Teacher training
+>Infrastructure
+>Enrollment
 
 ⚠️ The prototype priority score is a demonstration heuristic and is not an official government prioritization formula.
 
