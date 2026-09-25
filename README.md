@@ -54,7 +54,7 @@ ShikshaPulse AI aims to answer:
 
 ### Turning Education Data into Actionable Intelligence
 
-'''text
+```text
 ┌────────────────────┐
 │   EDUCATION DATA   │
 └─────────┬──────────┘
